@@ -63,7 +63,7 @@ Last but not least is functional programming. At first glance this paradigm migh
   <a href="https://www.unrealengine.com/en-US"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" height="40" alt="Unreal Engine" title="Unreal Engine"  /></a>
   <a href="https://en.cppreference.com/w/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++" /></a>      
   <a href="https://www.opengl.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="40" height="40" alt="OpenGL" title="OpenGL" /></a>
-  <a href=""><img src="https://www.svgrepo.com/show/373541/cuda.svg" width="40" height="40" alt="CUDA" title="CUDA" /></a>
+  <a href="https://developer.nvidia.com/cuda-zone"><img src="https://www.svgrepo.com/show/373541/cuda.svg" width="40" height="40" alt="CUDA" title="CUDA" /></a>
   <a href="https://www.scala-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40" height="40" alt="Scala" title="Scala" /></a>     
 </div>
 
