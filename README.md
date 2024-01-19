@@ -55,6 +55,17 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
 
 Apart from web development, I enjoy AI, image processing, and 3D graphics. Tensorflow and OpenCV are the tools I'm working with at the moment. 
 My another area of interest is game development. Lots of people enjoy playing videogames, but I wanted to know how they work under-the-hood. This is why I did a couple of small projects with Unreal Engine and three.js.
+Last but not least is functional programming. At first glance this paradigm might seem overwhelming and inapplicable for business environment. In my opinion, it just makes us look at our code from a bit different perspective. This is why I enjoy working with Scala. I believe it is friendly to those who have never worked with FP before and sometimes resembles Python.
+
+<div>
+  <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="Tensorflow" title="Tensorflow" /></a>
+  <a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" title="OpenCV" /></a>  
+  <a href="https://www.unrealengine.com/en-US"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" height="40" alt="Unreal Engine" title="Unreal Engine"  /></a>
+  <a href="https://en.cppreference.com/w/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></a>      
+  <a href="https://www.opengl.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="40" height="40" alt="OpenGL" title="OpenGL" /></a>
+  <a href=""><img src="https://www.svgrepo.com/show/373541/cuda.svg" width="40" height="40" alt="CUDA" title="CUDA" /></a>
+  <a href="https://www.scala-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40" height="40" alt="Scala" title="Scala" /></a>     
+</div>
 
 ---
 
