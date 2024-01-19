@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Vasilii 👽:</h1>
+<h1 align="center">Hi, I'm Vasilii 👽</h1>
+<h3 align="center">Full-Stack Developer</h1>
 
 <!--
 **vasilii314/vasilii314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
