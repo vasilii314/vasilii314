@@ -67,7 +67,9 @@ Last but not least is functional programming. At first glance this paradigm migh
   <a href="https://developer.nvidia.com/cuda-zone"><img src="https://www.svgrepo.com/show/373541/cuda.svg" width="40" height="40" alt="CUDA" title="CUDA" /></a>
   <a href="https://www.scala-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40" height="40" alt="Scala" title="Scala" /></a>  
   <a href="https://nodejs.org/en"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" title="Node.js" /></a>
-  <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" alt="express.js" title="express.js" /></a>
+  <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js" title="Express.js" /></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" title="MongoDB" /></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" width="40" height="40" alt="Neo4j" title="Neo4j" /></a>
 </div>
 
 ---
