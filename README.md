@@ -45,6 +45,7 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
 
 ### Tools & Testing:
 <div>
+  <a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" title="Redux" /></a>
   <a href="https://jestjs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" title="Jest" /></a>
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" /></a>      
 </div>
