@@ -3,6 +3,9 @@
 
 Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for image processing, web technologies and expertise in TypeScript, Python, React, Django, Spring Framewrok, and Go. I hold a B.S. degree in Cybersecurity and Cryptography. My professional background couples with my versatile programming skills, enabling me to craft seamless web solutions. My experience in building robust applications using Django framework, React, combined with my experience of re-engineering web applications to miscroservices and microfronteds, allows me to be an instrumental part of a dynamic software engineering team.
 
+# Languages
+---
+
 <!--
 **vasilii314/vasilii314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
