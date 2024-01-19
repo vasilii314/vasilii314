@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vasilii 👽</h1>
 <h3 align="center">Full-Stack Software Developer</h1>
 
-Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for image processing, web technologies and expertise in Python, Django, TypeScript, JavaScript, React, Spring Framewrok, and Go. I hold a B.S. degree in Cybersecurity and Cryptography. My professional background couples with my versatile programming skills, enabling me to create seamless web solutions. My experience in building robust applications using Django Framework, React, along with my experience of re-engineering web applications to miscroservices and microfronteds, allows me to be an effective part of a dynamic software engineering team.
+Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for image processing, web technologies and expertise in Python, Django, TypeScript, JavaScript, React, Spring Framewrok, and Go. I hold a B.S. degree in Cybersecurity and Cryptography. My professional background couples with my versatile programming skills, enabling me to create seamless web solutions. My experience in building robust applications using Django Framework, React, along with my experience of re-engineering web applications to microfronteds, allows me to be an effective part of a dynamic software engineering team.
 
 ### Languages:
 <div>
@@ -14,6 +14,8 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
 
 ---
 
+https://cryptopro.ru/en/products/csp
+
 ### Front-End:
 <div>
   <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="react" title="React" /></a>
@@ -22,6 +24,7 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
   <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="next" title="Next.js" /></a>
   <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="vite" title="Vite" /></a>
   <a href="https://ant.design/"><img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="40" height="40" alt="antd" title="Ant Design" /></a>
+  <a href=""><img src="https://cryptopro.ru/en/products/csp" width="40" height="40" alt="cryptopro csp" title="CryptoPro CSP" /></a>
 </div>
 
 ---
@@ -44,9 +47,15 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
 
 ### Tools & Testing:
 <div>
-    <a href="https://jestjs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" title="Jest" /></a>
+  <a href="https://jestjs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" title="Jest" /></a>
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" /></a>      
 </div>
+
+---
+
+### Other tech skills:
+
+Apart from web development, I enjoy AI, image processing, and 3D graphics. 
 
 ---
 
