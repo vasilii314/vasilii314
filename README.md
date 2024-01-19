@@ -14,8 +14,6 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
 
 ---
 
-https://cryptopro.ru/en/products/csp
-
 ### Front-End:
 <div>
   <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="react" title="React" /></a>
@@ -24,7 +22,7 @@ https://cryptopro.ru/en/products/csp
   <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="next" title="Next.js" /></a>
   <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="vite" title="Vite" /></a>
   <a href="https://ant.design/"><img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="40" height="40" alt="antd" title="Ant Design" /></a>
-  <a href=""><img src="https://cryptopro.ru/en/products/csp" width="40" height="40" alt="cryptopro csp" title="CryptoPro CSP" /></a>
+  <a href="https://cryptopro.ru/en/products/csp"><img src="https://cryptopro.ru/sites/all/themes/theme321/mod/logo_cryptopro_en.svg" width="40" height="40" alt="cryptopro csp" title="CryptoPro CSP" /></a>
 </div>
 
 ---
