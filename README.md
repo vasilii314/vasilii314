@@ -19,7 +19,7 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
   <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="react" title="React" /></a>
   <a href="https://www.w3.org/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html" title="HTML" /></a>
 <a href="https://www.w3schools.com/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css" title="CSS" /></a>
-  <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="next" title="Next.js" /></a>
+  <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next.js" title="Next.js" /></a>
   <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="vite" title="Vite" /></a>
   <a href="https://ant.design/"><img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="40" height="40" alt="antd" title="Ant Design" /></a>
   <a href="https://cryptopro.ru/en/products/csp"><img src="https://cryptopro.ru/sites/all/themes/theme321/mod/logo_cryptopro_en.svg" width="40" height="40" alt="cryptopro csp" title="CryptoPro CSP" /></a>
@@ -65,7 +65,9 @@ Last but not least is functional programming. At first glance this paradigm migh
   <a href="https://en.cppreference.com/w/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++" /></a>      
   <a href="https://www.opengl.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="40" height="40" alt="OpenGL" title="OpenGL" /></a>
   <a href="https://developer.nvidia.com/cuda-zone"><img src="https://www.svgrepo.com/show/373541/cuda.svg" width="40" height="40" alt="CUDA" title="CUDA" /></a>
-  <a href="https://www.scala-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40" height="40" alt="Scala" title="Scala" /></a>     
+  <a href="https://www.scala-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40" height="40" alt="Scala" title="Scala" /></a>  
+  <a href="https://nodejs.org/en"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" title="Node.js" /></a>
+  <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" alt="express.js" title="express.js" /></a>
 </div>
 
 ---
