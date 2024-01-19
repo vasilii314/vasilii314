@@ -16,32 +16,33 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
 
 ### Front-End:
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="react" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css" title="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="next" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="vite" title="Vite" />
-  <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="40" height="40" alt="antd" title="Ant Design" />
+  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="react" title="React" /></a>
+  <a href="https://www.w3.org/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html" title="HTML" /></a>
+<a href="https://www.w3schools.com/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css" title="CSS" /></a>
+  <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="next" title="Next.js" /></a>
+  <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="vite" title="Vite" /></a>
+  <a href="https://ant.design/"><img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="40" height="40" alt="antd" title="Ant Design" /></a>
 </div>
 
 ---
 
 ### Back-End:
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40" alt="django" title="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="postgresql" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="postman" title="Postman" />
-  <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" width="40" height="40" alt="celery" title="Celery" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="numpy" title="Numpy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" alt="Spring" title="Spring Framework" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" title="Kafka" />   <img src="https://skillicons.dev/icons?i=rabbitmq" width="40" height="40" alt="RabbitMQ" title="RabbitMQ" />
+  <a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40" alt="django" title="Django" /></a>
+  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker" title="Docker" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="postgresql" title="PostgreSQL" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="postman" title="Postman" /></a>
+  <a href="https://docs.celeryq.dev/en/stable/"><img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" width="40" height="40" alt="celery" title="Celery" /></a>
+  <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="numpy" title="Numpy" /></a>
+  <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" alt="Spring" title="Spring Framework" /></a>
+  <a href="https://kafka.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" title="Kafka" /></a>
+  <a href="https://www.rabbitmq.com/"><img src="https://skillicons.dev/icons?i=rabbitmq" width="40" height="40" alt="RabbitMQ" title="RabbitMQ" /></a>
 </div>
 
 ### Tools & Testing:
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" title="Jest" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />      
+    <a href="https://jestjs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" title="Jest" /></a>
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" /></a>      
 </div>
 
 <!--
