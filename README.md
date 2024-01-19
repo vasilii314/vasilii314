@@ -38,6 +38,12 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" title="Kafka" />   <img src="https://skillicons.dev/icons?i=rabbitmq" width="40" height="40" alt="RabbitMQ" title="RabbitMQ" />
 </div>
 
+### Tools & Testing:
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" title="Jest" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />      
+</div>
+
 <!--
 **vasilii314/vasilii314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
