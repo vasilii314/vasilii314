@@ -23,6 +23,17 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
   <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="vite" />
 </div>
 
+---
+
+### Back-End
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40" alt="django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="postgresql" />
+  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="postman" />
+            
+</div>
+
 <!--
 **vasilii314/vasilii314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
