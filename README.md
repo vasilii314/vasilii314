@@ -49,6 +49,12 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
 
 ---
 
+### Connect with me:
+<div>
+  <a href="https://www.linkedin.com/in/vasilii-dereviankin/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <a href="https://www.instagram.com/tea_passenger_pigeon?igsh=OGQ5ZDc2ODk2ZA=="><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</div>
+
 <!--
 **vasilii314/vasilii314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
