@@ -56,7 +56,11 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
   <a href="https://www.instagram.com/tea_passenger_pigeon?igsh=OGQ5ZDc2ODk2ZA=="><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" /></a>
 </div>
 
+---
+
 ### My Email: v.dereviankin.work@gmail.com
+
+---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vasilii314&theme=default)
 
