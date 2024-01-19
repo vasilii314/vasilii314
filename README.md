@@ -37,6 +37,7 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
   <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" alt="Spring" title="Spring Framework" /></a>
   <a href="https://kafka.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" title="Kafka" /></a>
   <a href="https://www.rabbitmq.com/"><img src="https://skillicons.dev/icons?i=rabbitmq" width="40" height="40" alt="RabbitMQ" title="RabbitMQ" /></a>
+  <a href="https://hibernate.org/"><img src="https://skillicons.dev/icons?i=hibernate" idth="40" height="40" alt="Hibernate" title="Hibernate" /></a>
 </div>
 
 ---
