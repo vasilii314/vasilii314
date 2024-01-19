@@ -4,15 +4,13 @@
 Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for image processing, web technologies and expertise in Python, Django, TypeScript, JavaScript, React, Spring Framewrok, and Go. I hold a B.S. degree in Cybersecurity and Cryptography. My professional background couples with my versatile programming skills, enabling me to create seamless web solutions. My experience in building robust applications using Django Framework, React, along with my experience of re-engineering web applications to miscroservices and microfronteds, allows me to be an effective part of a dynamic software engineering team.
 
 ### Languages:
-<table>
-  <tr>
-    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /></th>
-    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /></th>
-    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /></th>
-    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /></th>
-    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40" /></th>
-  </tr>
-
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40" />
+</div>
 ---
 
 <!--
