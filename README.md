@@ -62,4 +62,4 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasilii314&layout=donut-vertical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vasilii314&theme=default)
