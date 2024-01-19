@@ -53,7 +53,8 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
 
 ### Other tech skills:
 
-Apart from web development, I enjoy AI, image processing, and 3D graphics. 
+Apart from web development, I enjoy AI, image processing, and 3D graphics. Tensorflow and OpenCV are the tools I'm working with at the moment. 
+My another area of interest is game development. Lot's of people enjoy playing videogames, but I wanted to know how they work under-the-hood. This is why I did a couple of small projects with Unreal Engine.
 
 ---
 
