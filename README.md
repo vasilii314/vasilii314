@@ -20,7 +20,7 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" />
-   [![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" />
 </div>
 
 <!--
