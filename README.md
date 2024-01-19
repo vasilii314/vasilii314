@@ -21,6 +21,7 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="next" />
   <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="vite" />
+  <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="40" height="40" alt="antd" />
 </div>
 
 ---
@@ -32,6 +33,8 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="postgresql" />
   <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="postman" />
   <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" width="40" height="40" alt="celery" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="numpy" />
+          
 </div>
 
 <!--
