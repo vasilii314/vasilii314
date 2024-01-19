@@ -58,6 +58,8 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
 
 ### My Email: v.dereviankin.work@gmail.com
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vasilii314&theme=default)
+
 <!--
 **vasilii314/vasilii314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
