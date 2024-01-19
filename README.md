@@ -34,7 +34,8 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
   <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="postman" title="Postman" />
   <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" width="40" height="40" alt="celery" title="Celery" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="numpy" title="Numpy" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" alt="Spring" title="Spring Framework" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" title="Kafka" />   <img src="https://skillicons.dev/icons?i=rabbitmq" width="40" height="40" alt="RabbitMQ" title="RabbitMQ" />
 </div>
 
 <!--
