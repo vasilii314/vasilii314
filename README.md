@@ -39,11 +39,15 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
   <a href="https://www.rabbitmq.com/"><img src="https://skillicons.dev/icons?i=rabbitmq" width="40" height="40" alt="RabbitMQ" title="RabbitMQ" /></a>
 </div>
 
+---
+
 ### Tools & Testing:
 <div>
     <a href="https://jestjs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" title="Jest" /></a>
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" /></a>      
 </div>
+
+---
 
 <!--
 **vasilii314/vasilii314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
