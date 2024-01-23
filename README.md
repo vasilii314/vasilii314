@@ -37,6 +37,7 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
   <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="numpy" title="Numpy" /></a>
   <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" alt="Spring" title="Spring Framework" /></a>
   <a href="https://kafka.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" title="Kafka" /></a>
+  <a href="https://www.keycloak.org/"><img src="https://www.keycloak.org/resources/images/icon.svg" width="40" height="40" alt="Keycloak" title="Keycloak" /></a>
   <a href="https://www.rabbitmq.com/"><img src="https://skillicons.dev/icons?i=rabbitmq" width="40" height="40" alt="RabbitMQ" title="RabbitMQ" /></a>
   <a href="https://hibernate.org/"><img src="https://skillicons.dev/icons?i=hibernate" idth="40" height="40" alt="Hibernate" title="Hibernate" /></a>
 </div>
@@ -46,7 +47,8 @@ Currently I'm a Full-Stack Software Engineer at IBS Soft with a passion for imag
 ### Tools & Testing:
 <div>
   <a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" title="Redux" /></a>
-  <a href="https://jestjs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" title="Jest" /></a>
+  <a href="https://redux-saga.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux Saga" title="Redux Saga" /></a>
+  <a href="https://jestjs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest" title="Jest" /></a>/
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" /></a>      
 </div>
 
