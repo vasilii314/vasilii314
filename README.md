@@ -39,8 +39,10 @@ Currently I'm a Full-Stack Software Engineer at IBS with a passion for image pro
   <a href="https://www.keycloak.org/"><img src="https://www.keycloak.org/resources/images/icon.svg" width="40" height="40" alt="Keycloak" title="Keycloak" /></a>
   <a href="https://www.rabbitmq.com/"><img src="https://skillicons.dev/icons?i=rabbitmq" width="40" height="40" alt="RabbitMQ" title="RabbitMQ" /></a>
   <a href="https://hibernate.org/"><img src="https://skillicons.dev/icons?i=hibernate" idth="40" height="40" alt="Hibernate" title="Hibernate" /></a>
+  <a href="https://gofiber.io/"><img src="https://gofiber.io/assets/images/logo.svg" idth="40" height="40" alt="Fiber" title="Fiber" /></a>
+  <a href="https://go-chi.io/#/"><img src="https://cdn.jsdelivr.net/gh/go-chi/chi@master/_examples/chi.svg" idth="40" height="40" alt="Chi" title="Chi" /></a>
+  <a href="https://gin-gonic.com/"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" idth="40" height="40" alt="Gin" title="Gin" /></a>
 </div>
-
 ---
 
 ### Tools & Testing:
