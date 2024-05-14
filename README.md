@@ -43,6 +43,7 @@ Currently I'm a Full-Stack Software Engineer at IBS with a passion for image pro
   <a href="https://go-chi.io/#/"><img src="https://cdn.jsdelivr.net/gh/go-chi/chi@master/_examples/chi.svg" idth="40" height="40" alt="Chi" title="Chi" /></a>
   <a href="https://gin-gonic.com/"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" idth="40" height="40" alt="Gin" title="Gin" /></a>
 </div>
+
 ---
 
 ### Tools & Testing:
