@@ -71,5 +71,3 @@ Currently I'm a Full-Stack Software Engineer at IBS with a passion for image pro
 </div>
 
 ---
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vasilii314&theme=default)
