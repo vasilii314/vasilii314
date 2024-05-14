@@ -63,8 +63,6 @@ Currently I'm a Full-Stack Software Engineer at IBS with a passion for image pro
 </div>
 
 ---
-P.S. 
-This repository serves as a space for testing out new (at least for me) algorithms, languages, frameworks, etc.
 
 ### Connect with me:
 <div>
@@ -73,3 +71,5 @@ This repository serves as a space for testing out new (at least for me) algorith
 </div>
 
 ---
+P.S. 
+This repository serves as a space for testing out new (at least for me) algorithms, languages, frameworks, etc.
