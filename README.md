@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm Vasilii</h1>
+<h3 align="center">Full-Stack Software Developer</h3>
 Currently I'm a Full-Stack Software Engineer at IBS LLC with a passion for image processing, web technologies and expertise in Python, Django, TypeScript, JavaScript, React, Spring Framewrok, and Go. I hold a Master's degree in Cybersecurity and Cryptography. My professional background coupled with my versatile programming skills, enable me to create seamless web solutions. My experience in building robust applications using Django Framework, React, along with my experience of re-engineering web applications to microfronteds, allows me to be an effective part of a dynamic software engineering team.
 
 ### Languages:
