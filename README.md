@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vasilii</h1>
 <h3 align="center">Full-Stack Software Developer</h3>
-Currently I'm a Full-Stack Software Engineer at IBS LLC with a passion for image processing, web technologies and expertise in Python, Django, TypeScript, JavaScript, React, Spring Framewrok, and Go. I hold a Master's degree in Cybersecurity and Cryptography. My professional background coupled with my versatile programming skills, enable me to create seamless web solutions. My experience in building robust applications using Django Framework, React, along with my experience of re-engineering web applications to microfronteds, allows me to be an effective part of a dynamic software engineering team.
+Currently I'm a Full-Stack Software Engineer at IBS with a passion for image processing, cryptography, functional programming and expertise in Python, Django, TypeScript, JavaScript, React, Spring Framewrok, and Go. I hold a Master's degree in cyber security. My professional background coupled with my versatile programming skills, enable me to create seamless web solutions. My experience in building robust applications using Django Framework, React, along with my experience of re-engineering web applications to microfronteds, allow me to be an effective part of a dynamic software engineering team.
 
 ### Languages:
 <div>
@@ -55,12 +55,6 @@ Currently I'm a Full-Stack Software Engineer at IBS LLC with a passion for image
 
 ### Other tech skills:
 <div>
-  <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="Tensorflow" title="Tensorflow" /></a>
-  <a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" title="OpenCV" /></a>  
-  <a href="https://www.unrealengine.com/en-US"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" height="40" alt="Unreal Engine" title="Unreal Engine"  /></a>
-  <a href="https://en.cppreference.com/w/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++" /></a>      
-  <a href="https://www.opengl.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="40" height="40" alt="OpenGL" title="OpenGL" /></a>
-  <a href="https://developer.nvidia.com/cuda-zone"><img src="https://www.svgrepo.com/show/373541/cuda.svg" width="40" height="40" alt="CUDA" title="CUDA" /></a>
   <a href="https://www.scala-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40" height="40" alt="Scala" title="Scala" /></a>  
   <a href="https://nodejs.org/en"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" title="Node.js" /></a>
   <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js" title="Express.js" /></a>
