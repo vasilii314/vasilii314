@@ -69,7 +69,6 @@ Currently I'm a Full-Stack Software Engineer at IBS with a passion for image pro
 
 ### Connect with me:
 <div>
-  <a href="https://www.linkedin.com/in/vasilii-dereviankin/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
   <p>📧: v.dereviankin.work@gmail.com</p>
 </div>
 
